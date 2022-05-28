@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section footer li a{
+    text-decoration: none;
+    margin-top: 20px;
+    font-size: 12px;
+    font-weight: 500;
+    opacity: 0.6;
+}
+section footer li a:hover{
+    opacity: 1;
+}
+section footer li{
+    margin-top: 10px;
+}
+.card-2:hover{
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+
+
+}
+.logo-btn{
+    background-color: #00baf2;
+    
+}
+.popup{
+    display: none;
+}
+.close{
+    
+}
